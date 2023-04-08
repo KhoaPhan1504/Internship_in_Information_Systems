@@ -1,0 +1,21 @@
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.Form1.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\bin\Debug\bai1_linq.exe.config
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\bin\Debug\bai1_linq.exe
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\bin\Debug\bai1_linq.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.exe
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\bai1_linq\obj\Debug\bai1_linq.csprojAssemblyReference.cache
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\bin\Debug\bai1_linq.exe.config
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\bin\Debug\bai1_linq.exe
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\bin\Debug\bai1_linq.pdb
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.csproj.AssemblyReference.cache
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.csproj.SuggestedBindingRedirects.cache
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.Form1.resources
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.Properties.Resources.resources
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.csproj.GenerateResource.cache
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.csproj.CoreCompileInputs.cache
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.exe
+D:\5th SEMESTER\.NET\Win_TL Tham khảo\study\bai1_linq\obj\Debug\bai1_linq.pdb
