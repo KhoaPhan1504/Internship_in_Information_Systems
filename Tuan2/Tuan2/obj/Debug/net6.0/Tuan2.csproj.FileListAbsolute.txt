@@ -1,0 +1,15 @@
+E:\thucthapcnhttt\Tuan2\Tuan2\bin\Debug\net6.0\Tuan2.exe
+E:\thucthapcnhttt\Tuan2\Tuan2\bin\Debug\net6.0\Tuan2.deps.json
+E:\thucthapcnhttt\Tuan2\Tuan2\bin\Debug\net6.0\Tuan2.runtimeconfig.json
+E:\thucthapcnhttt\Tuan2\Tuan2\bin\Debug\net6.0\Tuan2.dll
+E:\thucthapcnhttt\Tuan2\Tuan2\bin\Debug\net6.0\Tuan2.pdb
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.csproj.AssemblyReference.cache
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.GeneratedMSBuildEditorConfig.editorconfig
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.AssemblyInfoInputs.cache
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.AssemblyInfo.cs
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.csproj.CoreCompileInputs.cache
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.dll
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\refint\Tuan2.dll
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.pdb
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\Tuan2.genruntimeconfig.cache
+E:\thucthapcnhttt\Tuan2\Tuan2\obj\Debug\net6.0\ref\Tuan2.dll
