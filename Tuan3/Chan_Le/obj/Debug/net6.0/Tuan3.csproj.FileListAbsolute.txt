@@ -1,0 +1,15 @@
+D:\Mini_Test_Practice\Tuan3\bin\Debug\net6.0\Tuan3.exe
+D:\Mini_Test_Practice\Tuan3\bin\Debug\net6.0\Tuan3.deps.json
+D:\Mini_Test_Practice\Tuan3\bin\Debug\net6.0\Tuan3.runtimeconfig.json
+D:\Mini_Test_Practice\Tuan3\bin\Debug\net6.0\Tuan3.dll
+D:\Mini_Test_Practice\Tuan3\bin\Debug\net6.0\Tuan3.pdb
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.csproj.AssemblyReference.cache
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.AssemblyInfoInputs.cache
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.AssemblyInfo.cs
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.csproj.CoreCompileInputs.cache
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.dll
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\refint\Tuan3.dll
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.pdb
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\Tuan3.genruntimeconfig.cache
+D:\Mini_Test_Practice\Tuan3\obj\Debug\net6.0\ref\Tuan3.dll
