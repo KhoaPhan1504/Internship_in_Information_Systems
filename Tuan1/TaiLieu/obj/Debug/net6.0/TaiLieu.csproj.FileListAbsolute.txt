@@ -1,0 +1,15 @@
+E:\c#\TaiLieu\TaiLieu\bin\Debug\net6.0\TaiLieu.exe
+E:\c#\TaiLieu\TaiLieu\bin\Debug\net6.0\TaiLieu.deps.json
+E:\c#\TaiLieu\TaiLieu\bin\Debug\net6.0\TaiLieu.runtimeconfig.json
+E:\c#\TaiLieu\TaiLieu\bin\Debug\net6.0\TaiLieu.dll
+E:\c#\TaiLieu\TaiLieu\bin\Debug\net6.0\TaiLieu.pdb
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.csproj.AssemblyReference.cache
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.AssemblyInfoInputs.cache
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.AssemblyInfo.cs
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.csproj.CoreCompileInputs.cache
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.dll
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\refint\TaiLieu.dll
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.pdb
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\TaiLieu.genruntimeconfig.cache
+E:\c#\TaiLieu\TaiLieu\obj\Debug\net6.0\ref\TaiLieu.dll
