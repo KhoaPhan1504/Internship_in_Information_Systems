@@ -1,0 +1,15 @@
+D:\Mini_Test_Practice\HCN\bin\Debug\net6.0\HCN.exe
+D:\Mini_Test_Practice\HCN\bin\Debug\net6.0\HCN.deps.json
+D:\Mini_Test_Practice\HCN\bin\Debug\net6.0\HCN.runtimeconfig.json
+D:\Mini_Test_Practice\HCN\bin\Debug\net6.0\HCN.dll
+D:\Mini_Test_Practice\HCN\bin\Debug\net6.0\HCN.pdb
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.csproj.AssemblyReference.cache
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.AssemblyInfoInputs.cache
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.AssemblyInfo.cs
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.csproj.CoreCompileInputs.cache
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.dll
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\refint\HCN.dll
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.pdb
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\HCN.genruntimeconfig.cache
+D:\Mini_Test_Practice\HCN\obj\Debug\net6.0\ref\HCN.dll
