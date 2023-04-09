@@ -1,8 +1,0 @@
-D:\Mini_Test_Practice\Day_Of_Weeks\bin\Debug\Day_Of_Weeks.exe.config
-D:\Mini_Test_Practice\Day_Of_Weeks\bin\Debug\Day_Of_Weeks.exe
-D:\Mini_Test_Practice\Day_Of_Weeks\bin\Debug\Day_Of_Weeks.pdb
-D:\Mini_Test_Practice\Day_Of_Weeks\obj\Debug\Day_Of_Weeks.csproj.AssemblyReference.cache
-D:\Mini_Test_Practice\Day_Of_Weeks\obj\Debug\Day_Of_Weeks.csproj.SuggestedBindingRedirects.cache
-D:\Mini_Test_Practice\Day_Of_Weeks\obj\Debug\Day_Of_Weeks.csproj.CoreCompileInputs.cache
-D:\Mini_Test_Practice\Day_Of_Weeks\obj\Debug\Day_Of_Weeks.exe
-D:\Mini_Test_Practice\Day_Of_Weeks\obj\Debug\Day_Of_Weeks.pdb

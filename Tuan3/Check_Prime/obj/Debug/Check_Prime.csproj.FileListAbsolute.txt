@@ -1,8 +1,0 @@
-D:\Mini_Test_Practice\Check_Prime\bin\Debug\Check_Prime.exe.config
-D:\Mini_Test_Practice\Check_Prime\bin\Debug\Check_Prime.exe
-D:\Mini_Test_Practice\Check_Prime\bin\Debug\Check_Prime.pdb
-D:\Mini_Test_Practice\Check_Prime\obj\Debug\Check_Prime.csproj.AssemblyReference.cache
-D:\Mini_Test_Practice\Check_Prime\obj\Debug\Check_Prime.csproj.SuggestedBindingRedirects.cache
-D:\Mini_Test_Practice\Check_Prime\obj\Debug\Check_Prime.csproj.CoreCompileInputs.cache
-D:\Mini_Test_Practice\Check_Prime\obj\Debug\Check_Prime.exe
-D:\Mini_Test_Practice\Check_Prime\obj\Debug\Check_Prime.pdb

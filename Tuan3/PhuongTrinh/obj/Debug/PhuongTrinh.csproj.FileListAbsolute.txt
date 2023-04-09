@@ -1,8 +1,0 @@
-D:\Mini_Test_Practice\PhuongTrinh\bin\Debug\PhuongTrinh.exe.config
-D:\Mini_Test_Practice\PhuongTrinh\bin\Debug\PhuongTrinh.exe
-D:\Mini_Test_Practice\PhuongTrinh\bin\Debug\PhuongTrinh.pdb
-D:\Mini_Test_Practice\PhuongTrinh\obj\Debug\PhuongTrinh.csproj.AssemblyReference.cache
-D:\Mini_Test_Practice\PhuongTrinh\obj\Debug\PhuongTrinh.csproj.SuggestedBindingRedirects.cache
-D:\Mini_Test_Practice\PhuongTrinh\obj\Debug\PhuongTrinh.csproj.CoreCompileInputs.cache
-D:\Mini_Test_Practice\PhuongTrinh\obj\Debug\PhuongTrinh.exe
-D:\Mini_Test_Practice\PhuongTrinh\obj\Debug\PhuongTrinh.pdb
