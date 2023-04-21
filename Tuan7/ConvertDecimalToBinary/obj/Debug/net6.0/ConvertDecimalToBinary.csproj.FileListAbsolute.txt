@@ -1,0 +1,15 @@
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\bin\Debug\net6.0\ConvertDecimalToBinary.exe
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\bin\Debug\net6.0\ConvertDecimalToBinary.deps.json
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\bin\Debug\net6.0\ConvertDecimalToBinary.runtimeconfig.json
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\bin\Debug\net6.0\ConvertDecimalToBinary.dll
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\bin\Debug\net6.0\ConvertDecimalToBinary.pdb
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.csproj.AssemblyReference.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.AssemblyInfoInputs.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.AssemblyInfo.cs
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.csproj.CoreCompileInputs.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.dll
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\refint\ConvertDecimalToBinary.dll
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.pdb
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ConvertDecimalToBinary.genruntimeconfig.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\ConvertDecimalToBinary\obj\Debug\net6.0\ref\ConvertDecimalToBinary.dll

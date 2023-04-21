@@ -1,0 +1,15 @@
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\bin\Debug\net6.0\Euclid.exe
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\bin\Debug\net6.0\Euclid.deps.json
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\bin\Debug\net6.0\Euclid.runtimeconfig.json
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\bin\Debug\net6.0\Euclid.dll
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\bin\Debug\net6.0\Euclid.pdb
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.csproj.AssemblyReference.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.AssemblyInfoInputs.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.AssemblyInfo.cs
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.csproj.CoreCompileInputs.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.dll
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\refint\Euclid.dll
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.pdb
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\Euclid.genruntimeconfig.cache
+D:\6th SEMESTER\Internship_in_Information_Systems\Tuan7\Euclid\obj\Debug\net6.0\ref\Euclid.dll
