@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\bin\Debug\bai2_linq.exe.config
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\bin\Debug\bai2_linq.exe
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\bin\Debug\bai2_linq.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.Form1.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.exe
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\bai2_linq\obj\Debug\bai2_linq.csprojAssemblyReference.cache

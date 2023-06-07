@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Documents\ki6\Win\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\LINQ\obj\Debug\LINQ.Form1.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache

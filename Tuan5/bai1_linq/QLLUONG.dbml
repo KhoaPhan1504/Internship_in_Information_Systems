@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLLUONG" Class="QLLUONGDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PCLAP\SQLEXPRESS;Initial Catalog=QLLUONG;Integrated Security=True" SettingsObjectName="bai1_linq.Properties.Settings" SettingsPropertyName="QLLUONGConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.chucvu" Member="chucvus">
+    <Type Name="chucvu">
+      <Column Name="macv" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tencv" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="phucap" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="chucvu_nhanvien" Member="nhanviens" ThisKey="macv" OtherKey="macv" Type="nhanvien" />
+    </Type>
+  </Table>
+  <Table Name="dbo.donvi" Member="donvis">
+    <Type Name="donvi">
+      <Column Name="madv" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tendv" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="dienthoai" Type="System.String" DbType="Text NOT NULL" CanBeNull="false" UpdateCheck="Never" />
+      <Association Name="donvi_nhanvien" Member="nhanviens" ThisKey="madv" OtherKey="madv" Type="nhanvien" />
+    </Type>
+  </Table>
+  <Table Name="dbo.nhanvien" Member="nhanviens">
+    <Type Name="nhanvien">
+      <Column Name="manv" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="hoten" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ngaysinh" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="hsluong" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="trinhdo" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="madv" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="macv" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="chucvu_nhanvien" Member="chucvu" ThisKey="macv" OtherKey="macv" Type="chucvu" IsForeignKey="true" />
+      <Association Name="donvi_nhanvien" Member="donvi" ThisKey="madv" OtherKey="madv" Type="donvi" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

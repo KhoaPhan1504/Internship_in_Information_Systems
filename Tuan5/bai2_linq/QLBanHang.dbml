@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLBanHang" Class="QLBanHangDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PCLAP\SQLEXPRESS;Initial Catalog=QLBanHang;Integrated Security=True" SettingsObjectName="bai2_linq.Properties.Settings" SettingsPropertyName="QLBanHangConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SanPham" Member="SanPhams">
+    <Type Name="SanPham">
+      <Column Name="MaSP" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSP" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DonGia" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="MaLoai" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="LoaiSP_SanPham" Member="LoaiSP" ThisKey="MaLoai" OtherKey="MaLoai" Type="LoaiSP" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LoaiSP" Member="LoaiSPs">
+    <Type Name="LoaiSP">
+      <Column Name="MaLoai" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenLoai" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="LoaiSP_SanPham" Member="SanPhams" ThisKey="MaLoai" OtherKey="MaLoai" Type="SanPham" />
+    </Type>
+  </Table>
+</Database>

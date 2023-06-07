@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLLUONG">
+  <DataContextMoniker Name="/QLLUONGDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9c34daea-9050-454c-b6e1-3f640eab3d32" absoluteBounds="4.5, 1.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QLLUONGDataContext/chucvu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57172ac7-5712-4753-89be-2731b89c2d3c" absoluteBounds="4.515, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2580e519-e934-4ac9-b94d-c60e8e83529a" absoluteBounds="0.875, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QLLUONGDataContext/donvi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb32cf77-5edb-432b-8e6e-17c2dee1bee7" absoluteBounds="0.89, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2a323765-d8af-4177-9353-db0a23483eda" absoluteBounds="3.25, 3.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLLUONGDataContext/nhanvien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="54598167-8b67-42bb-a79b-41c565d61e3f" absoluteBounds="3.265, 3.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.875 : 2.7612939453125); (4.875 : 3.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLLUONGDataContext/chucvu/chucvu_nhanvien" />
+      <nodes>
+        <classShapeMoniker Id="9c34daea-9050-454c-b6e1-3f640eab3d32" />
+        <classShapeMoniker Id="2a323765-d8af-4177-9353-db0a23483eda" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.875 : 2.6362939453125); (1.875 : 4.57774983723958); (3.25 : 4.57774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLLUONGDataContext/donvi/donvi_nhanvien" />
+      <nodes>
+        <classShapeMoniker Id="2580e519-e934-4ac9-b94d-c60e8e83529a" />
+        <classShapeMoniker Id="2a323765-d8af-4177-9353-db0a23483eda" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

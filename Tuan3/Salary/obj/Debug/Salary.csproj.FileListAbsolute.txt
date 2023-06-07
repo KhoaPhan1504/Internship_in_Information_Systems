@@ -1,0 +1,8 @@
+D:\Mini_Test_Practice\Salary\bin\Debug\Salary.exe.config
+D:\Mini_Test_Practice\Salary\bin\Debug\Salary.exe
+D:\Mini_Test_Practice\Salary\bin\Debug\Salary.pdb
+D:\Mini_Test_Practice\Salary\obj\Debug\Salary.csproj.AssemblyReference.cache
+D:\Mini_Test_Practice\Salary\obj\Debug\Salary.csproj.SuggestedBindingRedirects.cache
+D:\Mini_Test_Practice\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\Mini_Test_Practice\Salary\obj\Debug\Salary.exe
+D:\Mini_Test_Practice\Salary\obj\Debug\Salary.pdb
